@@ -16,7 +16,6 @@ Base de Datos: PostgreSQL
 
 📂 Estructura del Proyecto
 
-inventario-project/
 InventarioCCL.API/    # Proyecto en .NET
 InventarioCCL.Fronted/   # Proyecto en Angular
 Script.sql   # Script sql con la creacion de base de dato, tablas y datos de pruebas
