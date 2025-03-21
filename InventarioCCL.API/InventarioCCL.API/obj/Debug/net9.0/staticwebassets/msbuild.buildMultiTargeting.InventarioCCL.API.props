@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InventarioCCL.API.props" />
+</Project>
